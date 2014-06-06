@@ -7283,10 +7283,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\b\fs24 \cf2 Queue}</string>
+\f0\i\b\fs24 \cf0 Queue}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -7344,10 +7344,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - queue_id NATURAL\
+\f0\fs24 \cf0 - queue_id NATURAL\
 - min_rate BOOL (QueueGetConfigRes.queues[].property)\
 - rate NATURAL (QueueGetConfigRes.queues[].rate)}</string>
 					</dict>
@@ -7404,10 +7404,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\b\fs24 \cf2 Port}</string>
+\f0\i\b\fs24 \cf0 Port}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -7465,10 +7465,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - port_id NATURAL\
+\f0\fs24 \cf0 - port_id NATURAL\
 - hw_addr VARCHAR (FeatureRes.ports[])\
 - name VARCHAR (FeatureRes.ports[])\
 - rate NATURAL (FeatureRes.ports[].supported)\
@@ -7531,10 +7531,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\b\fs24 \cf2 Queues}</string>
+\f0\i\b\fs24 \cf0 Queues}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -7592,10 +7592,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - n_queues NATURAL (QueueGetConfigRes.queues[])\
+\f0\fs24 \cf0 - n_queues NATURAL (QueueGetConfigRes.queues[])\
 - queue_stats BOOL (FeatureRes.capabilities)}</string>
 					</dict>
 					<key>TextPlacement</key>
@@ -7651,10 +7651,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\b\fs24 \cf2 Ports}</string>
+\f0\i\b\fs24 \cf0 Ports}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -7712,10 +7712,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - n_ports NATURAL (FeatureRes.ports[])\
+\f0\fs24 \cf0 - n_ports NATURAL (FeatureRes.ports[])\
 - port_stats BOOL (FeatureRes.capabilites)\
 - stp BOOL (FeatureRes.capabilities)\
 - all BOOL (True)\
@@ -7830,10 +7830,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - datapath_id VARCHAR (FeatureRes)\
+\f0\fs24 \cf0 - datapath_id VARCHAR (FeatureRes)\
 - n_buffers NATURAL (FeatureRes)\
 - n_tables NATURAL (FeatureRes)\
 - ip_reassembly BOOL (FeatureRes.capabilities)\
@@ -8078,10 +8078,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - output BOOL (FeatureRes.actions)\
+\f0\fs24 \cf0 - output BOOL (FeatureRes.actions)\
 - set_vlan_vid BOOL (FeatureRes.actions)\
 - set_vlan_pcp BOOL (FeatureRes.actions)\
 - strip_vlan BOOL (FeatureRes.actions)\
@@ -8148,10 +8148,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - flowtable_id NATURAL\
+\f0\fs24 \cf0 - flowtable_id NATURAL\
 - name VARCHAR (StatsRes.Table)\
 - max_entries NATURAL (StatsRes.Table)\
 - table_stats BOOL (FeatureRes.capabilities)\
@@ -8206,10 +8206,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
-\f0\i\b\fs24 \cf2 Match}</string>
+\f0\i\b\fs24 \cf0 Match}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -8267,10 +8267,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - in_port BOOL (True)\
+\f0\fs24 \cf0 - in_port BOOL (True)\
 - in_port_mask BOOL (StatsRes.Table.wildcards)\
 - eth_src BOOL (True)\
 - eth_src_mask BOOL (StatsRes.Table.wildcards)\
@@ -8538,10 +8538,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - queue_id NATURAL\
+\f0\fs24 \cf0 - queue_id NATURAL\
 - min_rate BOOL (QueueGetConfigRes.queues[].property)\
 - rate NATURAL (QueueGetConfigRes.queues[].rate)}</string>
 					</dict>
@@ -8635,8 +8635,7 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red5\green0\blue0;\red255\green0\blue11;\red0\green0\blue0;
-}
+{\colortbl;\red255\green255\blue255;\red5\green0\blue0;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs24 \cf2 - port_id NATURAL\
@@ -8644,7 +8643,7 @@ Controller}</string>
 - name VARCHAR (FeatureRes.ports[])\
 - max_speed NATURAL (FeatureRes.ports[]\cf3 \
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-\cf4 - rate NATURAL (FeatureRes.ports[].supported)\
+\cf0 - rate NATURAL (FeatureRes.ports[].supported)\
 - mode enum \{ HD | FD \} (FeatureRes.ports[].supported)\
 - medium enum \{ Copper | Fiber \} (FeatureRes.ports[].supported)\
 - auto_neg BOOL (FeatureRes.ports[].supported)\
@@ -8741,11 +8740,11 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green0\blue11;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - n_queues NATURAL (QueueGetConfigRes.queues[])\cf3 \
-\cf2 - queue_stats BOOL (FeatureRes.capabilities)}</string>
+\f0\fs24 \cf0 - n_queues NATURAL (QueueGetConfigRes.queues[])\cf2 \
+\cf0 - queue_stats BOOL (FeatureRes.capabilities)}</string>
 					</dict>
 					<key>TextPlacement</key>
 					<integer>0</integer>
@@ -8837,19 +8836,19 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green0\blue11;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - n_ports NATURAL (FeatureRes.ports[])\cf3 \
-\cf2 - port_stats BOOL (FeatureRes.capabilites)\cf3 \
-\cf2 - all BOOL (True)\
+\f0\fs24 \cf0 - n_ports NATURAL (FeatureRes.ports[])\cf2 \
+\cf0 - port_stats BOOL (FeatureRes.capabilites)\cf2 \
+\cf0 - all BOOL (True)\
 - controller BOOL (True)\
-- local BOOL (?)\cf3 \
-\cf2 - table BOOL (True)\cf3 \
-\cf2 - in_port BOOL (True)\cf3 \
-\cf2 - normal BOOL (?)\
+- local BOOL (?)\cf2 \
+\cf0 - table BOOL (True)\cf2 \
+\cf0 - in_port BOOL (True)\cf2 \
+\cf0 - normal BOOL (?)\
 - flood BOOL (?)\
-- any BOOL (True)\cf0 \
+- any BOOL (True)\
 }</string>
 					</dict>
 					<key>TextPlacement</key>
@@ -8942,14 +8941,14 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green0\blue11;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - datapath_id VARCHAR (FeatureRes)\
+\f0\fs24 \cf0 - datapath_id VARCHAR (FeatureRes)\
 - n_buffers NATURAL (FeatureRes)\
-- n_tables NATURAL (FeatureRes)\cf3 \
-\cf2 - ip_reassembly BOOL (FeatureRes.capabilities)\cf3 \
-\cf2 - mfr_desc VARCHAR (StatsReq.Desc)\
+- n_tables NATURAL (FeatureRes)\cf2 \
+\cf0 - ip_reassembly BOOL (FeatureRes.capabilities)\cf2 \
+\cf0 - mfr_desc VARCHAR (StatsReq.Desc)\
 - hw_desc VARCHAR (StatsReq.Desc)\
 - sw_desc VARCHAR (StatsReq.Desc)\
 - serial_num VARCHAR (StatsReq.Desc)\
@@ -9142,10 +9141,10 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - goto BOOL (StatsRes.Table.instructions)\
+\f0\fs24 \cf0 - goto BOOL (StatsRes.Table.instructions)\
 - metadata BOOL (StatsRes.Table.instructions)\
 - write BOOL (StatsRes.Table.instructions)\
 - apply BOOL (StatsRes.Table.instructions)\
@@ -9367,13 +9366,13 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green0\blue11;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs24 \cf2 - flowtable_id NATURAL\
-- name VARCHAR (StatsRes.Table)\cf3 \
-\cf2 - max_entries NATURAL (StatsRes.Table)\cf3 \
-\cf2 - table_stats BOOL (FeatureRes.capabilities)\
+\f0\fs24 \cf0 - flowtable_id NATURAL\
+- name VARCHAR (StatsRes.Table)\cf2 \
+\cf0 - max_entries NATURAL (StatsRes.Table)\cf2 \
+\cf0 - table_stats BOOL (FeatureRes.capabilities)\
 - flow_stats BOOL (FeatureRes.capabilities)}</string>
 					</dict>
 					<key>TextPlacement</key>
@@ -9474,7 +9473,7 @@ Controller}</string>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
 \cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green0\blue11;\red0\green0\blue0;}
+{\colortbl;\red255\green255\blue255;\red255\green0\blue11;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs24 \cf2 - in_port BOOL (True)\
@@ -9490,11 +9489,11 @@ Controller}</string>
 - eth_type BOOL (True)\
 - eth_type_mask BOOL (StatsRes.Table.wildcards)\
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-\cf3 - arp_opcode BOOL (FeatureRes.capabilities)\cf2 \
+\cf0 - arp_opcode BOOL (FeatureRes.capabilities)\cf2 \
 - arp_opcode_mask BOOL (FeatureRes.capabilities)\
-\cf3 - arp_spa BOOL (FeatureRes.capabilities)\cf2 \
+\cf0 - arp_spa BOOL (FeatureRes.capabilities)\cf2 \
 - arp_spa_mask BOOL (FeatureRes.capabilities)\
-\cf3 - arp_tpa BOOL (FeatureRes.capabilities)\cf2 \
+\cf0 - arp_tpa BOOL (FeatureRes.capabilities)\cf2 \
 - arp_tpa_mask BOOL (FeatureRes.capabilities)\
 - mpls_label NATURAL ()\
 - mpls_tc NATURAL ()\
